@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sysGears/static/css/main.073c9b0a.css",
+    "main.js": "/sysGears/static/js/main.36c5cf94.js",
+    "index.html": "/sysGears/index.html",
+    "main.073c9b0a.css.map": "/sysGears/static/css/main.073c9b0a.css.map",
+    "main.36c5cf94.js.map": "/sysGears/static/js/main.36c5cf94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.36c5cf94.js"
+  ]
+}
